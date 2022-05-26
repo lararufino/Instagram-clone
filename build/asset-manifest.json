@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.973bdf07.css",
+    "main.js": "/static/js/main.b9dad805.js",
+    "static/js/787.fb49b3a9.chunk.js": "/static/js/787.fb49b3a9.chunk.js",
+    "static/media/girl.jpeg": "/static/media/girl.6fcffd3f166d3513a181.jpeg",
+    "static/media/equipe.jpeg": "/static/media/equipe.4375868a1ec34048b22d.jpeg",
+    "static/media/nanaths.jpeg": "/static/media/nanaths.5a1ee9991be7b91ba96a.jpeg",
+    "static/media/proa.jpeg": "/static/media/proa.90815d64d3c40ab8fef4.jpeg",
+    "static/media/ana.jpeg": "/static/media/ana.d6e887b61ec64e04dcbb.jpeg",
+    "static/media/iyana.jpeg": "/static/media/iyana.71a1af98017c890a040c.jpeg",
+    "static/media/nath.jpeg": "/static/media/nath.9a8571cfdec5e063e907.jpeg",
+    "static/media/lara.jpeg": "/static/media/lara.b6ec7389f3a1d3beb97e.jpeg",
+    "static/media/equipe3.jpeg": "/static/media/equipe3.6a8114f119456d16c63d.jpeg",
+    "static/media/baco.jpeg": "/static/media/baco.efd6b370bff110d62a04.jpeg",
+    "static/media/agnes.jpeg": "/static/media/agnes.792a9bee7923ccfb98b5.jpeg",
+    "static/media/lorena.jpeg": "/static/media/lorena.5ad7bf518b2d6b523b54.jpeg",
+    "static/media/riri.jpg": "/static/media/riri.ecc774e014217b3094f6.jpg",
+    "index.html": "/index.html",
+    "main.973bdf07.css.map": "/static/css/main.973bdf07.css.map",
+    "main.b9dad805.js.map": "/static/js/main.b9dad805.js.map",
+    "787.fb49b3a9.chunk.js.map": "/static/js/787.fb49b3a9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.973bdf07.css",
+    "static/js/main.b9dad805.js"
+  ]
+}
